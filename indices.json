@@ -1,0 +1,79 @@
+[
+  {
+    "index": "elsonronis",
+    "ok": true
+  },
+  {
+    "index": "luismedina",
+    "ok": true
+  },
+  {
+    "index": "portosul",
+    "ok": true
+  },
+  {
+    "index": "victor",
+    "ok": true
+  },
+
+  {
+    "index": "fabiolam",
+    "ok": true
+  },
+  {
+    "index": "numberone",
+    "ok": true
+  },
+  {
+    "index": "raiangeyger",
+    "ok": true
+  },
+  {
+    "index": "gleyson",
+    "ok": true
+  },
+  {
+    "index": "mariaines",
+    "ok": true
+  },
+  {
+    "index": "marceloaugusto",
+    "ok": true
+  },
+  {
+    "index": "adrianasoares_v2",
+    "ok": true
+  },
+
+
+  {
+    "index": "rebeka",
+    "ok": false
+  },
+  {
+    "index": "careca",
+    "ok": false
+  },
+  {
+    "index": "lima",
+    "ok": false
+  },
+  {
+    "index": "gilbertouema",
+    "ok": false
+  },
+  {
+    "index": "adminpadrao",
+    "ok": false
+  },
+  {
+    "index": "silesp",
+    "ok": false
+  },
+  {
+    "index": "thamireis",
+    "ok": false
+  }
+
+
+]
